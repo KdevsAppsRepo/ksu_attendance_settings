@@ -3,7 +3,7 @@
     "offlineAttendance_repot_sync_all":"1",
     "offlineAttendance_repot_sync_one":"1",
     "offlineAttendance_repot_delete_one":"1",
-    "offlineAttendance_page_sync_all":"1",
+    "offlineAttendance_page_sync_all":"0",
     "offlineAttendance_page_sync_one":"1",
-    "offlineAttendance_page_delete_one":"1",
+    "offlineAttendance_page_delete_one":"1"
 }
