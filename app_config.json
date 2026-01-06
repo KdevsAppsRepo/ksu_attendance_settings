@@ -7,6 +7,7 @@
     "offlineAttendance_page_sync_one":"0",
     "offlineAttendance_page_delete_one":"1",
     "app_announcement_enabled":"1",
+    "app_announcement_always_open":"1",
     "app_announcement_identifier":"005",
     "app_announcement_url":"https://raw.githubusercontent.com/KdevsAppsRepo/ksu_attendance_settings/refs/heads/main/001.png"
 }
